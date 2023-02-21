@@ -683,7 +683,7 @@ header .nav li .menu a:hover::before {
     background-color: var(--mainColor1);
     color: var(--mainColor5);
     height: 100%;
-    width: 85px;
+    width: 115px;
     display: grid;
     align-content: center;
     font-weight: 600;
