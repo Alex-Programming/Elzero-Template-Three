@@ -226,7 +226,7 @@ html {
 }
 
 ::-webkit-scrollbar {
-    width: 17px;
+    width: 16px;
     box-shadow: 0 0 15px -2px #ddd inset;
 }
 
